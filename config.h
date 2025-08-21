@@ -94,9 +94,9 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.95;
+float alpha = 0.90;
 
-#include "themes/gruvbox_dark.h"
+#include "themes/solarized_dark.h"
 
 /*
  * Default shape of cursor
